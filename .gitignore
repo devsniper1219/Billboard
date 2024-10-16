@@ -1,0 +1,4 @@
+build
+move.lock
+node_modules
+.env
